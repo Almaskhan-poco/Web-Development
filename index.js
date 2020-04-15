@@ -1,4 +1,3 @@
-alert("I m Ready");
 var wel=prompt("Enter Your Name");
 if(wel==="deyashini")
 {
