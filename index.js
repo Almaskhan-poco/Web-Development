@@ -1,3 +1,14 @@
+var wel=prompt("Enter Your Name");
+if(wel==="deyashini")
+{
+  alert("Welcome Writer Sahiba & once again Subho Nobo Borsho");
+}
+else
+{
+alert("Welcome"+wel);
+}
+
+
 for(var i=0;i<document.querySelectorAll(".drum").length;i++){
 document.querySelectorAll(".drum")[i].addEventListener("click",function() {
 var btninhtml= this.innerHTML;
